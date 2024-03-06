@@ -6,4 +6,4 @@
 ## How to install:
 1. Download Event Server Setup [by clicking here](https://google.com)
 2. unzip the zip-folder into an empty folder
-3. run the [run.bat](./Event-Servet-Setup.md#how-to-install)
+3. run the [run.bat](#how-to-install)
